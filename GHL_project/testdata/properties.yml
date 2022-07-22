@@ -1,0 +1,10 @@
+browser: chrome
+
+app_url: https://app.gohighlevel.com/
+
+calendar_name: General Opt
+
+
+users:
+  email: naren2695@gmail.com
+  password: Test@123
