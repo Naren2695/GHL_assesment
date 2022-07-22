@@ -1,4 +1,4 @@
-# Colending-automation
+# GHL workflow
 Automation repository for GHL workflow.
 
 ## Setup:
